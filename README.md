@@ -23,10 +23,13 @@ This project focuses on analyzing simulated customer behavior data from the Star
 
 - Analyzing Customer Behavior on the Starbucks Rewards Mobile App_Report.pdf: Report with detailed description of procedure.
 - Starbucks_Capstone_notebook.ipynb: Notebook showing the complete code.
-- Folder: data
+
+Used data (not uploaded here)
   1.	portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
   2.	profile.json - demographic data for each customer
   3.	transcript.json - records for transactions, offers received, offers viewed, and offers completed
+
+You can find the data via this link: https://www.kaggle.com/datasets/ruhaniroy/starbucks-capstone-challenge
 
 ## Results<a name="results"></a>
 
