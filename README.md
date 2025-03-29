@@ -6,7 +6,7 @@ Udacity Capstone Project (Data Scientist)
 1. [Installation](#installation)
 2. [Project Overview](#overview)
 3. [File Structure](#files)
-4. [Results]
+4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
@@ -28,7 +28,7 @@ This project focuses on analyzing simulated customer behavior data from the Star
   2.	profile.json - demographic data for each customer
   3.	transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
-## Results
+## Results<a name="results"></a>
 
 The analysis revealed that discount offers had the highest completion rates, offers sent by the web got the highest completion rates and female customers showing the highest engagement. Furthermore, the completion rates increase with age and income, particularly for BOGO offers. When looking at every offer in details these trends might not be revealed for every offer.
 
