@@ -30,7 +30,7 @@ This project focuses on analyzing simulated customer behavior data from the Star
 
 ## Results<a name="results"></a>
 
-The analysis revealed that discount offers had the highest completion rates, offers sent by the web got the highest completion rates and female customers showing the highest engagement. Furthermore, the completion rates increase with age and income, particularly for BOGO offers. When looking at every offer in details these trends might not be revealed for every offer.
+The analysis revealed that discount offers had the highest completion rates, offers sent by the web got the highest completion rates and female customers showing the highest engagement. Furthermore, the completion rates increase with age and income, particularly for BOGO offers. When looking at every offer in detail these trends might not be revealed for every offer.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
